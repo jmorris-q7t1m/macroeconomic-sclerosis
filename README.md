@@ -1,4 +1,5 @@
 # The Stagnation-by-Clogging Regime: Computational Appendix
+[![DOI](https://zenodo.org/badge/1465084175.svg)](https://doi.org/10.5281/zenodo.24389991)
 
 > **Citation:** 
 > Morris, J. (2026). The Stagnation-by-Clogging Regime: A Multi-Scale Framework of Macroeconomic Sclerosis (Version v1.1). Zenodo. [https://doi.org/10.5281/zenodo.24263451]
